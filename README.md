@@ -8,6 +8,9 @@
 	<img align="right"  width="40" src="images/swift.svg"/></a>
 <a href="https://www.codewars.com/users/Stanislav96RUS" target="_blank"> 
 	<img align="right" src="https://www.codewars.com/users/Stanislav96RUS/badges/large"/></a>
+<hr>
+<hr>
+<hr>
 
  1  
  1  
@@ -20,6 +23,7 @@
  1  
  1  
  
+<hr>
 
 #### Connect with me:
 <a href="http://t.me/StanWhiteZ" target="_blank"> 
