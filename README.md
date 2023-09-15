@@ -3,9 +3,9 @@
 <hr>
 
 <a href="https://developer.apple.com" target="_blank"> 
-	<img align="right"  width="48" src="images/xcode.svg"/></a>
+	<img align="right"  width="40" src="images/xcode.svg"/></a>
 <a href="https://developer.apple.com/swift" target="_blank"> 
-	<img align="right"  width="41" src="images/swift.svg"/></a>
+	<img align="right"  width="40" src="images/swift.svg"/></a>
 <a href="https://www.codewars.com/users/Stanislav96RUS" target="_blank"> 
 	<img align="right" src="https://www.codewars.com/users/Stanislav96RUS/badges/large"/></a>
 
