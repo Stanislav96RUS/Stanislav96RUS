@@ -25,7 +25,7 @@
  
 <hr>
 
-#### Connect with me:
+## Connect with me:
 <a><img align="left"  width="56" src="images/WhatsApp.png"/></a>
 <a href="http://t.me/StanWhiteZ" target="_blank"> 
 	<img align="left"  width="52" src="images/telegram.svg"/></a>
