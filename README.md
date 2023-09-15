@@ -5,13 +5,24 @@
 <a href="https://developer.apple.com" target="_blank"> 
 	<img align="right"  width="48" src="images/xcode.svg"/></a>
 <a href="https://developer.apple.com/swift" target="_blank"> 
-	<img align="right"  width="41" hspace="8" vspace="4" src="images/swift.svg"/></a>
+	<img align="right"  width="41" src="images/swift.svg"/></a>
 <a href="https://www.codewars.com/users/Stanislav96RUS" target="_blank"> 
-	<img align="right"  vspace="5" hspace="8" src="https://www.codewars.com/users/Stanislav96RUS/badges/large"/></a>
-	<!-- #### Connect with me: -->
+	<img align="right" src="https://www.codewars.com/users/Stanislav96RUS/badges/large"/></a>
 
+ 1  
+ 1  
+ 1  
+ 1  
+ 1  
+ 1  
+ 1  
+ 1  
+ 1  
+ 1  
+ 
 
+#### Connect with me:
 <a href="http://t.me/StanWhiteZ" target="_blank"> 
-	<img align="left"  vspace="15" hspace="8" width="52" src="images/telegram.svg"/></a>
+	<img align="left"  width="52" src="images/telegram.svg"/></a>
 <a href="mailto:malyukovstanislav@gmail.com" target="_blank"> 
-	<img align="left"  width="80" src="images/gmail.svg"/></a>
+	<img align="left"  width="64" src="images/gmail.svg"/></a>
