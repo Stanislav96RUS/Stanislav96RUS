@@ -2,6 +2,8 @@
 <h2 align="center">I'm an iOS-developer!</h2>
 <hr>
 
+<a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"> 
+	<img align="right"  width="40" src="images/photoshop.svg"/></a>
 <a href="https://www.sublimetext.com" target="_blank"> 
 	<img align="right"  width="40" src="images/sublime-text.svg"/></a>
 <a href="https://developer.apple.com" target="_blank"> 
