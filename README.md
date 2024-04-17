@@ -15,18 +15,12 @@
 <hr>
 <hr>
 <hr>
-[AstonishingDragonWorld](https://github.com/Stanislav96RUS/AstonishingDragonWorld)
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- there will be some beautiful text here soon  
- 
+
+# My pet-projects:
+
++ ## [Astonishing Dragon World](https://github.com/Stanislav96RUS/AstonishingDragonWorld)
++ ## [Astonishing Weather](https://github.com/Stanislav96RUS/AstonishingWeather)
+
 <hr>
 
 ## Connect with me:
