@@ -22,7 +22,7 @@
 + ## [Astonishing Weather](https://github.com/Stanislav96RUS/AstonishingWeather)
 
 <hr>
-
+Time Zone: UTC+5
 ## Connect with me:
 <a><img align="left"  width="56" src="images/WhatsApp.png"/></a>
 <a href="http://t.me/StanWhiteZ" target="_blank"> 
